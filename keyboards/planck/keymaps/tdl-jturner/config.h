@@ -53,4 +53,7 @@
 #define MOUSEKEY_MAX_SPEED 7
 #define MOUSEKEY_WHEEL_DELAY 0
 
+#define AUDIO_CLICKY
+#define AUDIO_CLICKY_ON
+
 #endif
